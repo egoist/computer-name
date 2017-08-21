@@ -1,13 +1,12 @@
 {
   "name": "computer-name",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "description": "Get computer name, cross-platform.",
   "repository": {
     "url": "egoist/computer-name",
     "type": "git"
   },
   "main": "index.js",
-  
   "files": [
     "index.js"
   ],
@@ -16,7 +15,8 @@
     "lint": "xo"
   },
   "author": "egoist <0x142857@gmail.com>",
-  "license": "MIT",  "jest": {
+  "license": "MIT",
+  "jest": {
     "testEnvironment": "node"
   },
   "dependencies": {},
