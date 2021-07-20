@@ -1,3 +1,3 @@
 declare module 'computer-name' {
-  export function computerName(): string;
+  export default function computerName(): string;
 }
