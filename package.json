@@ -2,6 +2,7 @@
   "name": "computer-name",
   "version": "0.1.0",
   "description": "Get computer name, cross-platform.",
+  "typings": "index.d.ts",
   "repository": {
     "url": "egoist/computer-name",
     "type": "git"
